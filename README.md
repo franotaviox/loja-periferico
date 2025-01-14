@@ -1,8 +1,8 @@
 🚀 Gestão de Sistemas com SQLAlchemy e Python: Um Projeto de Impacto 🎯
 
-Hoje compartilho um projeto que representa a fusão de conceitos avançados de desenvolvimento de software com práticas modernas de gerenciamento de dados.
+Hoje compartilho um projeto que representa a fusão de conceitos de desenvolvimento de software e gerenciamento de dados.
 
-Desenvolvi uma aplicação robusta em Python, utilizando SQLAlchemy para o mapeamento objeto-relacional (ORM). Este sistema foi projetado para gerenciar uma loja virtual de periféricos, integrando:
+Desenvolvi uma aplicação em Python, utilizando SQLAlchemy para o mapeamento objeto-relacional (ORM). Este sistema foi projetado para gerenciar uma loja virtual de periféricos, integrando:
 
 🔹 Estrutura Modular e Escalável: Com uma arquitetura baseada em classes e relacionamentos, o sistema suporta operações complexas, como gerenciamento de produtos, clientes e pedidos, de forma eficiente.
 
